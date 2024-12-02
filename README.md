@@ -11,6 +11,8 @@ A dynamic navigation system implemented in Python that calculates the shortest p
 - **Update Route in Real-Time**: Incorporates real-time traffic changes using the Bellman-Ford algorithm.
 
 ## Results
+![result1](https://github.com/user-attachments/assets/95561c36-543d-4e67-a8e9-45e337777177)
+![result2](https://github.com/user-attachments/assets/7442f19c-e313-4311-b7f9-24cb788193d2)
 
 ## Contributors
 Kim JuKyeong

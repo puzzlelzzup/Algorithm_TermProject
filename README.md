@@ -15,10 +15,10 @@ A dynamic navigation system implemented in Python that calculates the shortest p
 ![result2](https://github.com/user-attachments/assets/7442f19c-e313-4311-b7f9-24cb788193d2)
 
 ## Contributors
-Kim JuKyeong
-Park YuRan
-Choi MinSu
-Lee DongHyun
+Kim JuKyeong  
+Park YuRan  
+Choi MinSu  
+Lee DongHyun  
 
 ## References
 1. Lee, Y.-H., & Kim, S.-W. (2014). A hybrid search method of A* and Dijkstra algorithms to find minimal path lengths for navigation route planning. Journal of the Institute of Electronics and Information Engineers, 51(10), 109–117.

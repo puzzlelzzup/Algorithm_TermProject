@@ -10,6 +10,23 @@ A dynamic navigation system implemented in Python that calculates the shortest p
 - **Calculate Shortest Path**: Uses Dijkstra's algorithm to compute the shortest distances from a start node.
 - **Update Route in Real-Time**: Incorporates real-time traffic changes using the Bellman-Ford algorithm.
 
+## Usage
+1. Calculate Shortest Path: Choose option 1 and input the starting node to calculate the shortest path to all other nodes.
+2. Update Route in Real-Time: Choose option 2 and provide real-time edge weight updates (e.g., 0,1:3 to set the weight of edge 0 -> 1 to 3).
+3. Reroute: Choose option 3 to recalculate the route from the current location to the destination.
+4. Exit: Choose option 4 to exit the program.
+
+```
+=== Navigation System ===
+1. Calculate Shortest Path (Dijkstra)
+2. Update Route in Real-Time (Bellman-Ford)
+3. Recalculate Route
+4. Exit
+Choose an option: 1
+Enter the starting node (e.g., 0): 0
+Shortest distances: {0: 0, 1: 4, 2: 1, 3: 5}
+```
+
 ## Results
 ![result1](https://github.com/user-attachments/assets/95561c36-543d-4e67-a8e9-45e337777177)
 ![result2](https://github.com/user-attachments/assets/7442f19c-e313-4311-b7f9-24cb788193d2)

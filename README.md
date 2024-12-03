@@ -11,12 +11,16 @@ A dynamic navigation system implemented in Python that calculates the shortest p
 - **Update Route in Real-Time**: Incorporates real-time traffic changes using the Bellman-Ford algorithm.
 
 ## Usage
+- Download NaviSys.py  
+- Run using python  
+
 1. Calculate Shortest Path: Choose option 1 and input the starting node to calculate the shortest path to all other nodes.
 2. Update Route in Real-Time: Choose option 2 and provide real-time edge weight updates (e.g., 0,1:3 to set the weight of edge 0 -> 1 to 3).
 3. Reroute: Choose option 3 to recalculate the route from the current location to the destination.
 4. Exit: Choose option 4 to exit the program.
 
 ```
+Example
 === Navigation System ===
 1. Calculate Shortest Path (Dijkstra)
 2. Update Route in Real-Time (Bellman-Ford)
